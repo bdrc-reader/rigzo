@@ -1,6 +1,6 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/CIHTS/master/docs/img/logo.png)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/rigzo/master/docs/img/01.PNG)
 
 <br>
 <br>
