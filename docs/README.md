@@ -1,5 +1,5 @@
 <p align="center">
-  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/rigzo">མཚན་ཉིད།</a> • <a href="https://bdrc-reader.github.io/rigzo/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/rigzo/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/rigzo/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/rigzo/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/rigzo/natsok">སྣ་ཚོགས།</a></p>
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/rigzo/shadra">མཚན་ཉིད།</a> • <a href="https://bdrc-reader.github.io/rigzo/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/rigzo/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/rigzo/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/rigzo/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/rigzo/natsok">སྣ་ཚོགས།</a></p>
 
 # ནང་བསྟན་རིག་མཛོད་ཆེན་མོའི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
